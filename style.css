@@ -3,9 +3,7 @@ background-color: blueviolet;
 color: black;
 display: flex;
 justify-content: center;
-
-
-
-
-
+}
+button{
+    background-color: aqua;
 }
